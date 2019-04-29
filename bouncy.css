@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Fugaz+One');
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	margin: 0;
+	background-color: #8967e0;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	font-size: 4.0em;
+	font-family: 'Fugaz One', cursive;
+	padding-left: 5%;
+	color: #f9f9e8;
+}
+
+#menuBar {
+	height: 50px;
+	background-color: #FFA042;
+	padding-left: 20%;
+}
+
+.theButtons {
+	height: 48px;
+	text-decoration: none;
+	font-family: 'Fugaz One', cursive;
+	border: 0;
+	margin-right: 200px;
+	font-size: 2.0em;
+	width: 10%;
+	background-color: magenta;
+	color: #f9f9e8;
+	border-radius: 50%;
+}
+
+#canvasDiv {
+	text-align: center;
+}
+
+#myCanvas {
+	border: 2px solid blue;
+}
